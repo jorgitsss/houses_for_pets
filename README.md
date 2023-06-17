@@ -1,25 +1,16 @@
-# README
+# Houses to Pets
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Descripción
+"Houses to Pets" es una plataforma desarrollada en Ruby on Rails que permite crear una guardería de mascotas tipo hotel o Airbnb. El proyecto tiene como objetivo proporcionar un ambiente seguro, cómodo y acogedor para las mascotas mientras sus dueños están fuera. Este repositorio contiene el código fuente y la configuración necesaria para ejecutar la aplicación.
 
-Things you may want to cover:
+## Requisitos previos
+- Ruby: 2.7.4
+- Rails: 6.1.4
+- PostgreSQL: 13.3
 
-* Ruby version
+## Configuración
 
-* System dependencies
+1. Clona el repositorio:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# houses_for_pets
+```bash
+git clone https://github.com/tuusuario/houses-to-pets.git
